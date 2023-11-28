@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: uzair1785/maven:v1.1
+        tags: uzair1751/maven:v1.1
